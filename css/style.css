@@ -1,0 +1,61 @@
+body
+{
+    background-color: rgb(115, 125, 134);
+}
+
+.navbar-brand
+{
+    text-emphasis: 40;
+}
+
+.navbar-toggler
+{
+    color: rgb(131, 216, 255);
+    background-color: white;
+}
+
+.titulo
+{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.card
+{
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contactoBody
+{
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+footer
+{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.footerCont
+{
+    margin-bottom: 40px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
